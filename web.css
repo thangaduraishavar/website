@@ -1,0 +1,21 @@
+body, h1, h2, h3, h4, h5, h6, h7{
+    font-family: square peg;
+ }/body>
+body {background: #ececec;}
+h1, h2, h3, h4, h5 {
+  border-bottom: 1px solid #ccc;
+  color: #de26ef;
+  padding-bottom: 8px
+}
+.container {
+  margin: auto;
+  width: 350px;
+  text-align: center;
+
+  
+}
+.listFlex {display: flex; justify-content: center;}
+
+img {
+  width: 60%;
+}
